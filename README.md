@@ -13,8 +13,6 @@ JDK 6 installed
 
 * cd oxygen
 
-* import in your IDE (Eclipse/IntelliJ)
-
 * run main Application
 
 ## WIki
