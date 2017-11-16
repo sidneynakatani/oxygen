@@ -9,13 +9,13 @@ JDK 6 installed
 
 ### Installing
 
-git clone https://github.com/sidneynakatani/oxygen.git
+* git clone https://github.com/sidneynakatani/oxygen.git
 
-cd oxygen
+* cd oxygen
 
-import in your IDE (Eclipse/IntelliJ)
+* import in your IDE (Eclipse/IntelliJ)
 
-run main Application
+* run main Application
 
 ## WIki
 
