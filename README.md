@@ -1,6 +1,8 @@
 # Oxygen
 Project to explain Design Pattern Flyweight.
 
+![](https://github.com/sidneynakatani/oxygen/blob/master/resource/img/cloud.jpg)
+
 ## Getting Started
 
 ### Prerequisites
