@@ -21,6 +21,10 @@ JDK 6 installed
 
 [Oxygen Wiki link](https://github.com/sidneynakatani/oxygen/wiki)
 
+### More
+
+[Article about Flyweight (Portuguese version)](https://nakatech.herokuapp.com/article/flyweight.html)
+
 ## Authors
 
 - Sidney Nakatani / Initial work
